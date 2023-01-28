@@ -57,7 +57,10 @@ def score_game(random_predict):
     print(f"Your algorithm guesses the number on average for: {score} attempts")
 
 
+print("random_predict")
 score_game(random_predict)
+print("game_core_v2")
 score_game(game_core_v2)
+print("game_core_v3")
 score_game(game_core_v3)
 
