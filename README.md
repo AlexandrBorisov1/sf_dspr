@@ -1,10 +1,10 @@
 # My data science projects
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
-## Проекты
+## РџСЂРѕРµРєС‚С‹
 
-* [Проект 0. Игра: Угадай число](https://github.com/AlexandrBorisov1/sf_dspr/tree/main/project_0)
-* [Проект 1.      ](     )
-* [Проект 2.      ](     )
+* [РџСЂРѕРµРєС‚ 0. РРіСЂР°: РЈРіР°РґР°Р№ С‡РёСЃР»Рѕ](https://github.com/AlexandrBorisov1/sf_dspr/tree/main/project_0)
+* [РџСЂРѕРµРєС‚ 1.      ](     )
+* [РџСЂРѕРµРєС‚ 2.      ](     )
 
 
